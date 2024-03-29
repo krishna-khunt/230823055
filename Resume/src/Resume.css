@@ -1,0 +1,20 @@
+.title{
+    color: rgb(0, 166, 255);
+    
+    
+}
+.skill{
+    border-bottom:3px #85929E solid;
+    display:inline-block ;
+}
+.skill1{
+    border-bottom:3px #85929E solid;
+    display:inline-block ;
+    margin: 10px;
+}
+
+.header{
+    display:inline-block ;
+    margin: 10px;
+}
+
