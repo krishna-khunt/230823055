@@ -1,0 +1,61 @@
+.nav{
+    height: 100px;
+    
+    padding-bottom: 50px;
+}
+.icon{
+    height: 50px;
+    padding: 5px;
+ 
+    
+}
+.div{
+    padding-left: 500px;
+}
+
+
+ 
+/* main page */
+.video
+{
+    
+    border-radius: 2% ;
+    height: 500px
+
+
+}
+.video1
+{
+     /* height:100px;*/
+     width: 1200px; 
+     
+}
+.silde{
+    /* background-color: rgb(133, 104, 116); */
+
+    height: 100%;
+    
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    padding: 8px 25px;
+    border: 2px solid #555555;
+    border-radius:10px;
+    display:flex;
+  }
+  
+.button1:hover {
+    background-color: #555555;
+    color: white;
+}
+
+.mapvideo{
+    padding-top: 30PX;
+    border-radius: 10px;
+    margin-top: 12px;
+}
+
+  
